@@ -24,8 +24,8 @@ for live polling.
 ## 🚀 Run locally
 
 ```bash
-git clone https://github.com/<your-user>/<this-repo>.git
-cd <this-repo>
+git clone https://github.com/Fahlcox/system-specs-checker.git
+cd system-specs-checker
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
